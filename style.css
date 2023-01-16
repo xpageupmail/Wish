@@ -143,7 +143,7 @@ img.center {
     }
 } */
 .wish-hbd {
-    height: 350px;
+    height: 160px;
     position: relative;
     margin: 0;
     text-transform: uppercase;
@@ -211,7 +211,7 @@ h5 {
         font-size: 1.3rem;
       }
     img {
-        width: 50px;
+        width: 110px;
         height: 70px;
     }
     .refresh-btn {
